@@ -1,0 +1,41 @@
+
+#table thead tr th{
+    text-align: center;
+}
+ h1{
+    margin-top:10px;
+    margin-bottom: -2px;
+    background-color: rgb(17, 151, 84);
+    color: white;
+    width: 30%;
+    text-align: center;
+    border-radius: 2px;
+    border: 2px solid blue;
+  border-radius: 10px;
+  font-family: "Timenew Roman";
+
+}
+th{
+    text-align: center;
+    font-size: 20px;
+    font-family: "Timenew Roman";
+    background-color: rgb(245, 62, 108);
+    color: white;
+}
+td{
+    font-size: 18px;
+}
+p{
+    font-family: "Timenew Roman";
+    font-size: 40px;
+    background-color: rgb(17, 151, 84);
+    color: white;
+    width: 30%;
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px 20px;
+
+
+   
+    
+}
